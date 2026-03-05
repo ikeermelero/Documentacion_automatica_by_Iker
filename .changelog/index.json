@@ -6,17 +6,17 @@
     "changelog_version": "1.0.0"
   },
   "stats": {
-    "total_commits": 2,
+    "total_commits": 3,
     "total_branches": 2,
-    "last_updated": "2026-03-05T18:48:10+01:00"
+    "last_updated": "2026-03-05T18:58:22+01:00"
   },
   "branches": [
     {
       "name": "feature/mi-prueba",
       "file": "feature-mi-prueba.json",
-      "commit_count": 1,
-      "last_commit_hash": "96bcc67",
-      "last_commit_date": "2026-03-05T18:48:10+01:00",
+      "commit_count": 2,
+      "last_commit_hash": "3b21b10",
+      "last_commit_date": "2026-03-05T18:58:22+01:00",
       "last_author": "ikeermelero"
     },
     {
