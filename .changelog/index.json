@@ -1,0 +1,23 @@
+{
+  "project": {
+    "name": "Documentacion_automatica",
+    "repository": "",
+    "created_at": "2026-03-05T18:30:02+01:00",
+    "changelog_version": "1.0.0"
+  },
+  "stats": {
+    "total_commits": 1,
+    "total_branches": 1,
+    "last_updated": "2026-03-05T18:30:02+01:00"
+  },
+  "branches": [
+    {
+      "name": "master",
+      "file": "master.json",
+      "commit_count": 1,
+      "last_commit_hash": "dcae09f",
+      "last_commit_date": "2026-03-05T18:30:02+01:00",
+      "last_author": "ikeermelero"
+    }
+  ]
+}
