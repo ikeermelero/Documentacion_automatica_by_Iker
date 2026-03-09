@@ -1,8 +1,36 @@
 {
   "branch": "feature/mi-prueba",
   "created_at": "2026-03-05T18:48:10+01:00",
-  "last_updated": "2026-03-09T09:32:43+01:00",
+  "last_updated": "2026-03-09T09:40:27+01:00",
   "commits": [
+    {
+      "hash": "7d9cd06",
+      "hash_full": "7d9cd062b36afe564a094986af5eb20a57a6253c",
+      "message": "creación del README",
+      "type": "other",
+      "scope": "",
+      "subject": "creación del README",
+      "description": "Que la gente se cosque de como funciona",
+      "notes": "Que aprenda git para que no tengamos problemas JAJAJAJA",
+      "author": {
+        "name": "ikeermelero",
+        "email": "ikermelero57@gmail.com"
+      },
+      "branch": "feature/mi-prueba",
+      "date": "2026-03-09T09:40:27+01:00",
+      "timestamp": 1773045627,
+      "stats": {
+        "files_changed": 1,
+        "lines_added": 145,
+        "lines_deleted": 0
+      },
+      "files": [
+        {
+          "file": "README.md",
+          "status": "added"
+        }
+      ]
+    },
     {
       "hash": "59c45f3",
       "hash_full": "59c45f305bf09c338d321f7b1f7711b788f19ba8",
